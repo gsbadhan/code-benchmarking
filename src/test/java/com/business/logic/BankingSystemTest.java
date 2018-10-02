@@ -1,4 +1,4 @@
-package com.benchmark.harness;
+package com.business.logic;
 
 import static org.junit.Assert.*;
 
@@ -6,7 +6,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class BankingTest {
+public class BankingSystemTest {
 
 	@Before
 	public void setUp() throws Exception {
